@@ -1,0 +1,21 @@
+{
+  "name": "learning-functional",
+  "version": "1.0.0",
+  "description": "学习函数式编程",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xbzhang2020/learning-functional.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xbzhang2020/learning-functional/issues"
+  },
+  "homepage": "https://github.com/xbzhang2020/learning-functional#readme"
+}
